@@ -1,0 +1,11 @@
+Flask==3.0.0 # Web server component for example
+gunicorn==20.1.0 # Web server component for example
+pandas==1.3.5
+google-cloud-bigquery==3.9.0
+regex==2022.7.9
+google-cloud-secret-manager==2.10.0
+snowflake-connector-python
+pyyaml
+google-cloud-aiplatform
+python-dateutil
+
